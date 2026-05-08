@@ -15,7 +15,7 @@ class student{
 			cin.getline(college,50);
 		}   
 		void output(){
-			
+			    
 			cout<<"Name =  "<<name<<endl;
 			cout<<"Roll No =  "<<roll<<endl;
 			cout<<"College name =  "<<college<<endl;
